@@ -1,4 +1,4 @@
-# Frontend Mentor - Intro component with sign up form solution
+# Frontend Mentor - Intro component with sign-up form solution
 
 ## Table of contents
 
@@ -135,7 +135,7 @@ if (passwordField.getAttribute("type") === "password") {
 - [Fontawesome](fontawesome.com) - This helped provide me with free eye icons for my project. I really liked this pattern and will use it going forward.
 
 ## Author
-- Website - [Visit my Portfolio Website]([https://omowunmikamil.tech](https://omowunmi-kamiludeen.netlify.app/)
+- Website - [Visit my Portfolio Website](https://omowunmi-kamiludeen.netlify.app/)
 - Frontend Mentor - [Omowunmi Kamiludeen](https://www.frontendmentor.io/profile/Omowunmikamil)
 - Twitter - [Browser_Nerd](https://www.twitter.com/@Browser_Nerd)
 
